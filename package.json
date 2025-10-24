@@ -13,7 +13,8 @@
     "overrides": {
       "cypress": "13.12.0",
       "@types/react": "18.3.10",
-      "@types/react-dom": "18.3.0"
+      "@types/react-dom": "18.3.0",
+      "webpack": "5.76.1"
     }
   },
   "workspaces": {
